@@ -1,0 +1,15 @@
+{
+  "name": "jogo-da-memoria-da-kents-civilization",
+  "version": "1.0.0",
+  "description": "Novo remake do jogo da memória da Kent's Civilization, dessa vez usando Typescript, javascript modular e web components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}

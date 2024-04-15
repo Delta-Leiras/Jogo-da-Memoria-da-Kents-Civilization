@@ -1,0 +1,46 @@
+.carta{
+    width: 10.5%;
+    height: 17%;
+    margin: 1%;
+    background-image: linear-gradient(#ff0000, #960018, #880000, #B22222);
+    border: 5px solid black;
+    border-radius: 10%;
+    cursor: pointer;
+    background-size: cover;
+    background-position: center;
+}
+
+/*.carta-ativa{
+    background--image: url("../img/personagens/19.png");
+
+}
+
+#c1{
+    background-image: url("../img/personagens/gina.png");
+    background-size: cover;
+    background-position: center;
+}
+
+#c2{
+    background-image: url("../img/personagens/cooki2.png");
+    background-size: cover;
+    background-position: center;
+}
+
+#c3{
+    background-image: url("../img/personagens/chara_BR.png");
+    background-size: cover;
+    background-position: center;
+}
+
+#c4{
+    background-image: url("../img/personagens/kent.png");
+    background-size: cover;
+    background-position: center;
+}
+
+#c5{
+    background-image: url("../img/personagens/ryan.png");
+    background-size: cover;
+    background-position: center;
+}*/
