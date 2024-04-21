@@ -53,5 +53,11 @@ class Partida {
         });
     }
     compararCartasClicadas() { }
+    getCartasClicadas() {
+        return this.cartasClicadas;
+    }
+    setCartasClicadas(valor) {
+        this.cartasClicadas = valor;
+    }
 }
 export { Partida };

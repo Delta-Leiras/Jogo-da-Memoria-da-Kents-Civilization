@@ -15,8 +15,8 @@ window.onload = () => {
     document.querySelector(".extras").appendChild(botao.elemento);
 };
 function atualizarTela() {
-    var _a;
     return __awaiter(this, void 0, void 0, function* () {
+        var _a;
         let divs = document.querySelectorAll("div[class=carta]");
         let cartas = new Array(40);
         let dovs = new Array(40);

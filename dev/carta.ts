@@ -22,6 +22,7 @@ class Carta
 
     public constructor(personagem: string[] = new Array<string>())// Ao invés do 20usar o Array.length Math.floor(Math.random() * 20)
     {
+        console.log();
         this.elemento = document.createElement<"div">("div");
         this.elemento.classList.add("carta");
         //this.nome = "";

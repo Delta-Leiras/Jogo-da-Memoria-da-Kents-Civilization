@@ -1,0 +1,45 @@
+[33mcommit cfc14a11f4b88d21e0205d7ffaf7cbce9e3f76e9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Delta-Leiras <138947739+Delta-Leiras@users.noreply.github.com>
+Date:   Sun Apr 14 21:34:29 2024 -0300
+
+    Commit sem o node_modules
+    
+    Eu copiei os arquivos, reverti a commit, colei de novo e então adicionei o node_modules no gitignore
+
+[33mcommit dc8bef1da7ca16da1bb9f10c6c9f5924c38466cd[m
+Author: Delta-Leiras <138947739+Delta-Leiras@users.noreply.github.com>
+Date:   Sun Apr 14 21:28:39 2024 -0300
+
+    Revert "Revert "Revert "Commit inicial"""
+    
+    This reverts commit 829eaa448e5b9cae58e17c9b72261b871bbeedde.
+
+[33mcommit 829eaa448e5b9cae58e17c9b72261b871bbeedde[m
+Author: Delta-Leiras <138947739+Delta-Leiras@users.noreply.github.com>
+Date:   Sun Apr 14 21:26:53 2024 -0300
+
+    Revert "Revert "Commit inicial""
+    
+    This reverts commit d50c2f782f20bf50e1d6a48b78d768218854755e.
+
+[33mcommit d50c2f782f20bf50e1d6a48b78d768218854755e[m
+Author: Delta-Leiras <138947739+Delta-Leiras@users.noreply.github.com>
+Date:   Sun Apr 14 21:25:29 2024 -0300
+
+    Revert "Commit inicial"
+    
+    This reverts commit 95ef2f0b79fde9ea7d5ea2b2c9f32856ee04c965.
+
+[33mcommit 95ef2f0b79fde9ea7d5ea2b2c9f32856ee04c965[m
+Author: Delta-Leiras <138947739+Delta-Leiras@users.noreply.github.com>
+Date:   Sun Apr 14 21:10:04 2024 -0300
+
+    Commit inicial
+    
+    Testando se consigo clonar o repositório no celular
+
+[33mcommit dc79a28d162b49a2749ce99b51dbaeac9ccdf529[m
+Author: Delta-Leiras <138947739+Delta-Leiras@users.noreply.github.com>
+Date:   Sun Apr 14 21:06:06 2024 -0300
+
+    Initial commit
